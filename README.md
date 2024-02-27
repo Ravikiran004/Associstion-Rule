@@ -1,0 +1,1 @@
+Uncover the world of association rule mining, which reveals interesting relationships in large datasets. This folder includes materials on the Apriori algorithm, its applications, and practical exercises to implement association rules in Python.
